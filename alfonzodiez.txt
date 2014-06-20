@@ -77,13 +77,19 @@ con su nombre generar un nuevo paquete, e instalarlo
 
 19- Las particiones de un disco se nombran mediante el nombre de dispositivo y el
 número de partición:
+	
+	DD IDE
+		HDa maestro
+		HDb Slave
+		HDc Maestro secundario
+		HDd Slave secundario
 
-	ide: HD letras ejemplo HDA 
-	Sata: SDA y numeros ejemplo SDA1
+	DD Sata
+		Sda 1 hasta el 5
 
 20- Como hago un repositorio con debmirror, comando.
 
-	
+	debmirror --host=http.es.debian.org --root=debian --cleanup --nosource --ignore-missing-release --progress --ignore-release-gpg --arch=i386 --dist=lenny,squeeze --method=http --section=main,contrib,non-free /var/www/debian/
 
 21- Guardar el history en .txt para verificar todo lo anterior fue realizado por ti.
 

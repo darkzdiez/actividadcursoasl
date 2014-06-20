@@ -1,0 +1,155 @@
+    1  cd control/
+    2  ls --help
+    3  ls --help | grep 'oculto'
+    4  ls --help
+    5  ls --all
+    6  cd ..
+    7  ls -la
+    8  cd control/
+    9  git clone https://github.com/julioh/cursoasl.git
+   10  cd ..
+   11  su root
+   12  cd control/
+   13  git clone https://github.com/julioh/cursoasl.git
+   14  ls
+   15  cd cursoasl/
+   16  echo "yo lo hice" > alfonzo.txt
+   17  ls
+   18  git add --all
+   19  git commit -a
+   20  git push
+   21  git config --global user.name "darkzdiez"
+   22  git config --global user.email "alfonzodiez@gmail.com"
+   23  git push
+   24  cd ..
+   25  rm -r cursoasl/
+   26  su root -c "rm -r cursoasl"
+   27  git clone https://github.com/darkzdiez/cursoasl.git
+   28  echo "nuevo archivo de prueba" > prueba.txt
+   29  git add --all
+   30  mv prueba.txt cursoasl/prueba.txt 
+   31  cd cursoasl/
+   32  git add --all
+   33  git commit -a -m "nuevo archivo de prueba"
+   34  git push
+   35  ls -la
+   36  touch prueba.md
+   37  git add --all
+   38  git 
+   39  clear
+   40  git commit -a -m "segunda prueba"
+   41  git push
+   42  nano .git/HEAD 
+   43  nano .git/config 
+   44  git push
+   45  su root
+   46  exit
+   47  apt-get update
+   48  su root -c "apt-get update"
+   49  nautilus /var/cache/apt/archives/
+   50  su root -c "apt-get update"
+   51  su root
+   52  exit
+   53  cd Descargas/Sublime/
+   54  su root
+   55  exit
+   56  su root
+   57  exit
+   58  su root
+   59  exit
+   60  history 
+   61  nano comandos2.txt 
+   62  gedit comandos2.txt 
+   63  gedit comandos.txt 
+   64  su root
+   65  uname
+   66  uname2 --help
+   67  uname2 -a
+   68  uname
+   69  clear
+   70  df
+   71  df -h
+   72  cat toto
+   73  cat toto > toto2
+   74  ls 
+   75  cat toto2
+   76  history 
+   77  exit
+   78  echo $USER
+   79  exit
+   80  su root
+   81  bb
+   82  alsamixer 
+   83  update-desktop-database 
+   84  update-desktop-database
+   85  update-desktop-database --help
+   86  update-desktop-database -v
+   87  locate *.deb
+   88  history 
+   89  cd /
+   90  update-desktop-database
+   91  locate *.deb
+   92  locate *.txt
+   93  cd ~
+   94  update-desktop-database
+   95  locate *.txt
+   96  updatedb
+   97  exit
+   98  su root
+   99  su
+  100  su root
+  101  sl
+  102  sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl && sl
+  103  su root
+  104  exit
+  105  su reoot
+  106  su root
+  107  exit
+  108  git clone https://github.com/darkzdiez/paquete-canaima.git
+  109  cd paquete-canaima/
+  110  pwd
+  111  cd ../
+  112  ls
+  113  cd canaima-notas-gnome-4.0/
+  114  dpkg-buildpackage -uc -us
+  115  dpkg-buildpackage -us -uc
+  116  su
+  117  canaima-semilla
+  118  aptitude show canaima-semilla
+  119  canaima-semilla construir --medio="iso" --arquitectura="i386" --sabor="popular"
+  120  aptitude remove --purge canaima-semilla
+  121  su
+  122  exit
+  123  exit
+  124  su root
+  125  su root
+  126  history | grep c-s
+  127  su root
+  128  exit
+  129  passwd root
+  130  su root
+  131  exit
+  132  cd /usr/share/canaima-semilla/
+  133  cd isos/
+  134  ls
+  135  clear
+  136  ls -la is
+  137  ls -la
+  138  chroot chroot/
+  139  aptitude install chroot
+  140  nmap -A -T4 yaracuy.gob.ve
+  141  exit
+  142  su
+  143  exit
+  144  su
+  145  exit
+  146  su root
+  147  exit
+  148  reboot
+  149  exit
+  150  aptitude install flashplayer-mozilla 
+  151  su root
+  152  exit
+  153  cd evaluacion/actividadcursoasl/
+  154  nano alfonzodiez.txt 
+  155  history  > history.txt
