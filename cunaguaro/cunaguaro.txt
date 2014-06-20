@@ -1,0 +1,9 @@
+equipo5   9394  1.1  4.5 885784 181504 ?       Sl   13:29   0:18 cunaguaro
+equipo5   9503  0.5  0.8 388552 34840 ?        Sl   13:35   0:06 /usr/lib/cunaguaro/xulrunner/plugin-container /usr/lib/flashplayer-mozilla/libflashplayer.so -greomni /usr/lib/cunaguaro/xulrunner/omni.ja -appdir /usr/lib/cunaguaro/browser 9394 plugin
+root      9717  0.0  0.0   7852   884 pts/0    S+   13:56   0:00 grep --color=auto cunaguaro
+equipo5   9394  1.1  4.5 885784 181504 ?       Sl   13:29   0:18 cunaguaro
+equipo5   9503  0.5  0.8 388552 34840 ?        Sl   13:35   0:06 /usr/lib/cunaguaro/xulrunner/plugin-container /usr/lib/flashplayer-mozilla/libflashplayer.so -greomni /usr/lib/cunaguaro/xulrunner/omni.ja -appdir /usr/lib/cunaguaro/browser 9394 plugin
+root      9720  0.0  0.0   7852   884 pts/0    S+   13:57   0:00 grep --color=auto cunaguaro
+equipo5   9394  1.1  4.5 885784 181504 ?       Sl   13:29   0:18 cunaguaro
+equipo5   9503  0.5  0.8 388552 34840 ?        Sl   13:35   0:06 /usr/lib/cunaguaro/xulrunner/plugin-container /usr/lib/flashplayer-mozilla/libflashplayer.so -greomni /usr/lib/cunaguaro/xulrunner/omni.ja -appdir /usr/lib/cunaguaro/browser 9394 plugin
+root      9722  0.0  0.0   7852   884 pts/0    S+   13:57   0:00 grep --color=auto cunaguaro
